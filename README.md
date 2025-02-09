@@ -1,19 +1,32 @@
-# Hey there, I'm Tzigger! 🚀
+# Hi, I'm Tzigger 👋
 
-## Welcome to My GitHub Page!😁
+## About Me
+I'm a computer science student with a passion for solving problems through code. With hands-on experience in scripting, data analysis, and a small interest in cybersecurity, I thrive on developing innovative solutions—whether that means automating repetitive tasks or ensuring robust system security. I'm always eager to collaborate and bring creative ideas to life.
 
-## Who am I?
-I'm a computer science student who's also a ChatGPT enthusiast🤣. You'll usually find me knee-deep in code, fixing some bugs, or cracking some hack-the-box levels🤓
+## Technical Skills
+**Programming & Scripting Languages:**
+- Python, Bash, C/C++, MQL5, Rust
 
-## What Gets Me Pumped?🧐
-- **Scripting**: I love whipping up scripts to make life easier – who needs manual tasks, right?
-- **Data Diving**: Dive into data? Count me in! It's like being a detective in the digital world.
-- **Pentesting sh*t**: To keep things safe and sound in cyberspace, someone's gotta crack it too!
+**Version Control:**
+- Git & GitHub
 
-## What's Brewing in My Lab?
-I am working on some interesting projects🤭 From fun ideas to hopefully useful tools😝.
+**Development Tools:**
+- Visual Studio Code
 
-## Let's Code!
-Got an idea you wanna bounce around? Or maybe you just wanna talk about the latest technologies? Hit me up – I'm always down for a good chat!
+**Frameworks:**
+- Flutter
 
+## Notable Projects
+- **Project Name:** *25pay*  
+- **Project Name:** *ICT_Trading_Algo*
+- **Project Name:** *NXP Cup Autonomous Racing* 
 
+## Professional Interests
+I am particularly interested in roles that focus on software development, cybersecurity, or data analysis. I enjoy leveraging my skills to create efficient, secure, and scalable solutions and am always open to new challenges, internships, or collaborative projects.
+
+## Let's Connect!
+I'm excited to discuss potential collaborations or opportunities.  
+- **LinkedIn:** www.linkedin.com/in/andrei-tigaieriu  
+- **Email:** atigaieriu@gmail.com
+
+Thanks for stopping by my GitHub profile!
