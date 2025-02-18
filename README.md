@@ -1,7 +1,7 @@
 # Hi, I'm Tzigger 👋
 
 ## About Me
-I'm a computer science student with a passion for solving problems through code. With hands-on experience in scripting, data analysis, engineering, and a small interest in cybersecurity, I thrive on developing innovative solutions—whether that means automating repetitive tasks or ensuring robust system security. I'm always eager to collaborate and bring creative ideas to life.
+I'm a computer engineering student with a passion for solving problems through code. With hands-on experience in scripting, data analysis, engineering, and a small interest in cybersecurity, I thrive on developing innovative solutions—whether that means automating repetitive tasks or ensuring robust system security. I'm always eager to collaborate and bring creative ideas to life.
 
 ## Technical Skills
 **Programming & Scripting Languages:**
